@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+You've found my github page. This is just a couple of my projects or like experiments or something. Don't hold any of it to a high standard :) lol
+
 <!--
 **lucky962/lucky962** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
